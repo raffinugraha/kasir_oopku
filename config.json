@@ -1,0 +1,9 @@
+{
+  "APP_FOLDER": "kasir_new",
+  "BASE_URL": "http://localhost/kasir_new",
+  "DB_HOSTNAME": "localhost",
+  "DB_PORT": "3306",
+  "DB_USERNAME": "root",
+  "DB_PASSWORD": "",
+  "DB_DATABASE": "kasir_new"
+}
